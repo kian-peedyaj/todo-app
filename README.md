@@ -7,7 +7,7 @@ This is a simple Todo List application built using React and Redux. It demonstra
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/kian-peedyaj/todo-app.git
 
 
 2. Navigate to the project directory:
