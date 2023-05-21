@@ -1,6 +1,6 @@
 # React Redux Todo List App
 
-![image](https://github.com/kian-peedyaj/todo-app/assets/73398056/ea509c8d-8465-4dcf-b8d1-2a4fcd866470)
+![image](https://github.com/kian-peedyaj/todo-app/assets/73398056/c96da796-e3aa-4840-ad02-c74d37e99613)
 
 This is a simple Todo List application built using React and Redux. It demonstrates the usage of Redux for state management in a React application.
 
